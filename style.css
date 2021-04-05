@@ -7,31 +7,70 @@ body {
     
 }
 .welcom {
-    padding: 0px;
+    margin: 226px 546px 10px 550px;
     width: 344px;
-    height: 50px;
-    
-   
+    height: 50px;  
 }
+
  h1  {
     color: #FFFFFF;
     font-size: 34px;
-  
-    
   } 
+ 
+ .design {
+    margin:10px 584px 30px 583px ;
+    width: 273px;
+    height: 50px;
+    color: #FFFFFF;
+    font-size: 17px;
+    text-align: center;
+ } 
 
 .login {
     width: 410px;
     height: 310px;
     background-color: #2C405A;
     border-radius: 8px;
-    margin: 366px 515px;
+    margin: 30px 515px 224px 515px;
 }
 .login-text {
     color: #FFFFFF;
     font-family: Arial, Helvetica, sans-serif;
+    opacity: .9;
     font-size: 17px;
-    padding: 38px 123px 250px 123px;
+    padding: 38px 123px 22px 123px;
     margin: 0px;
-    border: 0px;
 }
+
+.input_name {
+   color: #FFFFFF;
+   font-family: Arial, Helvetica, sans-serif;
+   opacity: .5;
+   font-size: 15px;
+   width: 310px;
+   height: 42px;
+   background-color: #2C405A;
+   border-radius:4px ;
+   border: 1px solid #3F536E;
+   box-shadow: 0px 1px 5px rgba(23, 24, 25, 0.59692);
+   margin: 10px 50px ;
+   
+
+}
+
+.input_pasword {
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: .5;
+    font-size: 15px;
+    width: 310px;
+    height: 42px;
+    background-color: #2C405A;
+    border-radius:4px ;
+    border: 1px solid #3F536E;
+    box-shadow: 0px 1px 5px rgba(23, 24, 25, 0.59692);
+    margin: 10px 50px ;
+    
+    }
+
+
