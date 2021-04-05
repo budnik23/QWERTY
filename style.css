@@ -24,6 +24,7 @@ body {
     color: #FFFFFF;
     font-size: 17px;
     text-align: center;
+    line-height: 25px;
  } 
 
 .login {
@@ -32,6 +33,7 @@ body {
     background-color: #2C405A;
     border-radius: 8px;
     margin: 30px 515px 224px 515px;
+    padding: auto;
 }
 .login-text {
     color: #FFFFFF;
@@ -53,7 +55,7 @@ body {
    border-radius:4px ;
    border: 1px solid #3F536E;
    box-shadow: 0px 1px 5px rgba(23, 24, 25, 0.59692);
-   margin: 10px 50px ;
+   margin: 0px 50px 10px 50px ;
    
 
 }
